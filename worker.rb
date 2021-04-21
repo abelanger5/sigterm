@@ -8,6 +8,6 @@ trap('TERM') do
 end
 
 loop do
-  puts "Pretending to do work"
+  puts "Pretending to do work 2"
   sleep 3
 end
