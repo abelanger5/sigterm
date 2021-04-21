@@ -3,6 +3,7 @@ puts "Starting up"
 
 trap('TERM') do
   puts "Graceful shutdown"
+  sleep 25
   exit
 end
 
