@@ -8,6 +8,6 @@ Signal.trap("TERM") {
 }
 
 loop do
-  puts "Pretending to do work 2"
+  puts "Pretending to do work 3"
   sleep 3
 end
